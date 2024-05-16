@@ -1,0 +1,28 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "bookbuddy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/charitylefosa/Bookbuddy.git"
+  },
+  "keywords": [
+    "genre"
+  ],
+  "author": "Phefu and Charity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charitylefosa/Bookbuddy/issues"
+  },
+  "homepage": "https://github.com/charitylefosa/Bookbuddy#readme",
+  "description": ""
+}
