@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charitylefosa/Bookbuddy.git"
+    "url": ""
   },
   "keywords": [
     "genre"
@@ -21,8 +21,8 @@
   "author": "Phefu and Charity",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/charitylefosa/Bookbuddy/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/charitylefosa/Bookbuddy#readme",
+  "homepage": "",
   "description": ""
 }
